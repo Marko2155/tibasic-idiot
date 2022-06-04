@@ -1,6 +1,8 @@
 # tibasic-idiot-
 A TI BASIC clone of the infamous YouAreAnIdiot
 
+Code:
+
 Program name: IDIOT
 
 Disp "YOU ARE AN IDIOT"
